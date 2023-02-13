@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Linux, Programing, Hacking, Security**
 
-- 📫 How to reach me **shreyashkakde69@gmail.com**
+- 📫 How to reach me **shreyashkakde20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
