@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Logic Building Skills**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Full Stack Development with React and Java**
 
 - 💬 Ask me about **Linux, Programing, Hacking, Security**
 
