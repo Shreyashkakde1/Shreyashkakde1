@@ -5,7 +5,7 @@
 
   <!-- Animated Real-time Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+Resilient+Enterprise+Microservices+%E2%9A%A1;Tuning+High-Throughput+OLTP+%26+OLAP+Databases+%F0%9F%9B%A2%EF%B8%8F;Java+17%2F21+%2B+Spring+Boot+3+Specialist+%E2%98%95;Automotive+Enterprise+Platform+Contributor+%F0%9F%9A%97;Master+of+Computer+Applications+(Cloud+Computing)+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+Resilient+Enterprise+Microservices+%E2%9A%A1;Tuning+High-Throughput+OLTP+%26+OLAP+Databases+%F0%9F%9B%A2%EF%B8%8F;Java+17%2F21+%2B+Spring+Boot+3+Specialist+%E2%98%95;Large-Scale+Enterprise+Backend+Architectures+%F0%9F%9A%80;Master+of+Computer+Applications+(Cloud+Computing)+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -41,7 +41,7 @@ shreyash@backend-cluster:~$ systemctl status engineer.service
      Memory: 64.0M (Optimized HikariCP Connection Pools & Zero-Leak GC)
       Tasks: 128 (Virtual Threads / Reactive WebClient)
      CGroup: /system.slice/engineer.service
-             ├─ domain: Nationwide Automotive Aftermarket Ecosystem (Maruti Suzuki)
+             ├─ domain: High-Throughput Automotive Enterprise Service Platforms
              ├─ architecture: [Microservices, CQRS Read-Replicas, Event-Driven]
              ├─ storage: [PostgreSQL (OLTP/OLAP), Redis Cache, MinIO S3]
              └─ status: "Eliminating table contention & serving sub-50ms APIs 🚀"
@@ -49,9 +49,20 @@ shreyash@backend-cluster:~$ systemctl status engineer.service
 
 ---
 
+### 👨‍💻 About Me
+
+- 💼 **Software Engineer** specializing in **Java, Spring Boot, and Microservices Architecture**.
+- 🚗 Experienced in designing scalable backend platforms for **nationwide enterprise service ecosystems**.
+- 🏗️ Strong expertise in **CQRS read-write database segregation, low-latency Redis caching, and resilient external API facades**.
+- 📊 Experienced in high-volume streaming data processing using **Apache POI (`SXSSFWorkbook`)** to export massive enterprise datasets without memory overhead.
+- 🎓 Pursuing **Master of Computer Applications (MCA) in Cloud Computing** at Chandigarh University.
+- 💬 Ask me about **Java, Spring Boot internals, Microservices design patterns, Database indexing, and REST API optimization**.
+
+---
+
 ### 🚀 What I Do Best
 
-- 🏗️ **Enterprise Microservices:** Architecting loosely-coupled, domain-driven services (**SAS Audit, Warranty Claims, Vehicle 360, ASTS Admin**) routed via an API Gateway with centralized JWT validation.
+- 🏗️ **Enterprise Microservices:** Architecting loosely-coupled, domain-driven microservices handling compliance governance, multi-tier approval hierarchies, and third-party integrations routed via an API Gateway with centralized JWT validation.
 - ⚡ **Database Optimization & CQRS:** Isolating heavy analytical joins onto a dedicated **PostgreSQL Read Replica** to preserve sub-50ms latencies on live transactional OLTP databases.
 - 🛡️ **Resilient External Facades:** Designing fault-tolerant third-party integrations with **Spring WebClient / RestTemplate**, backed by **Redis caching** and automated exponential backoff retries.
 - 📦 **Streaming Big Data Export:** Processing and exporting massive datasets using **Apache POI (`SXSSFWorkbook`)** without memory bottlenecks (`OutOfMemoryError`).
